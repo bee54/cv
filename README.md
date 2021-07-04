@@ -1,1 +1,1 @@
-# cv
+# This is a static site
